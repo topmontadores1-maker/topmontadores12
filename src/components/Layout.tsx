@@ -9,7 +9,7 @@ export default function Layout() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 text-primary hover:text-secondary transition-colors">
             <Wrench className="h-6 w-6" />
-            <span className="font-bold text-xl tracking-tight">Top Montadores</span>
+            <span className="font-bold text-xl tracking-tight">TopMontador</span>
           </Link>
           <nav className="flex items-center gap-4">
             <Link to="/cadastro-montador">
